@@ -51,10 +51,15 @@
 📝 Notion 저장
 ```
 
-> 📷 Make Workflow 스크린샷(v1)
+> 📷 Make Workflow 스크린샷
 > ![make_scenario](/attachment/make_scenario.png)
+> 📌 Make Workflow 페이지
+> [make 링크](https://eu1.make.com/public/shared-scenario/dYbmEbDIOJF/mission-2-2)
+
+> 📷 노션 결과 스크린샷
 > 
-> 스크린샷까지
+> 📌 노션 결과 페이지
+> [notion](https://app.notion.com/p/389fa48844e980e9bb37c7ee5483d4ec?v=389fa48844e9808ea789000c3b93aa54&source=copy_link)
 
 ---
 
