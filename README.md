@@ -101,14 +101,20 @@
 
 **사용 키워드**
 
-- AI Agent
-- LLM
-- Generative AI
-- OpenAI
-- Claude
-- Gemini
-- Automation
-- Enterprise AI
+| 키워드 | 설명 |
+|---|---|
+| AI agent | AI 에이전트 관련 기사 |
+| LLM | 대형 언어모델 관련 기사 |
+| generative AI | 생성형 AI 전반 |
+| OpenAI | OpenAI 동향 및 제품 소식 |
+| Claude | Anthropic / Claude 관련 |
+| Gemini | Google AI 관련 |
+| automation | 업무 자동화 사례 |
+| enterprise AI | 기업 AI 도입 및 적용 사례 |
+
+**키워드 선택 이유**
+
+단순 기술 뉴스보다 **AI의 실질적 활용과 산업 영향**에 초점을 맞춰 키워드를 구성했습니다. 팀 프로젝트의 목적이 "자동화 파이프라인 학습"인 만큼, 자동화·에이전트·기업 도입 관련 기사가 학습 맥락과도 자연스럽게 연결됩니다.
 
 **프롬프트**
 ```
